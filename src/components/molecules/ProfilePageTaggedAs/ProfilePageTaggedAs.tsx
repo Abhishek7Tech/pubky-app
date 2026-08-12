@@ -52,7 +52,7 @@ export function ProfilePageTaggedAs({ tags, isLoading = false, onTagClick, pubky
       >
         <Tag size={16} className="text-foreground" />
         <Typography as="span" className="text-sm font-bold">
-          {'Add Tag'}
+          {'See all'}
         </Typography>
       </Button>
     </Container>
